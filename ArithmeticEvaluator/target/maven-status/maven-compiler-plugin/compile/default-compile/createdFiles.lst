@@ -1,0 +1,6 @@
+operations\SubtractExpression.class
+interpreter\Expression.class
+operations\MultiplyExpression.class
+app\InterpreterPatternDemo.class
+operations\AddExpression.class
+interpreter\NumberExpression.class
